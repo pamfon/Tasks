@@ -1,0 +1,15 @@
+/* Name: Paulo Alfredo Medeiros da Fonseca
+ * Student number: 8903202
+ */
+
+body{
+    font: normal normal normal 12px/1.5 Verdana, Arial, Helvetica, sans-serif;
+    background-color: hsla(200, 40%, 80%, 0.7);
+    height: 100vh;
+    width:  100vw;
+}
+
+h2{
+    font-size: 2rem;
+    color: #fc9;
+}
